@@ -23,4 +23,4 @@ High cost
 |  DirectionalLight | Sun rays that parallel each other, and have infinite range regardless of position  |
 |  PointLight | Infinitely small lantern that illuminates in every direction from its position  |
 |  SpotLight | Flashlight, cone shaped from bright to dim  |
-|  RectAreaLight | Photoshoot light  |
+|  RectAreaLight | Photoshoot studio light  |
